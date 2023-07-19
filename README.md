@@ -4,7 +4,7 @@
 In this project we were asked to build a custom token deploy it to Avalanche Fuji Testnet using Hardhat.
 you must have a Web3 wallet such as **Metamask**.
 recieve tokens in your wallet  by visiting a Avalanche Fuji Testnet faucet
- 1. Install all the required packages using ''' npm i '''
+ 1. Install all the required packages using ```npm i```
  2. Create a .env file to store your credentials ie, wallet private key and api key.
  3. Deploy the token
 ```
