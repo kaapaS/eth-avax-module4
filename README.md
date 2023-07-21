@@ -16,5 +16,3 @@ on remix IDE change the virtual machine(environment) to "injected Provider" afte
 aprrove connection on Web3 wallet
 then in "At Address" add the address u get after deploying the token, 
 Now we can interact with the token
-
-for video explanation refer the link https://www.loom.com/share/50d463ceb80541e78c3b3cef64c03ea2
